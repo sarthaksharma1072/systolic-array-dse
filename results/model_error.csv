@@ -1,0 +1,11 @@
+regime,target,MAE,MAPE_pct,note
+DSP,lut,97.2,698.8,"MAPE unusable, y near 0"
+DSP,ff,165.7,66.8,10/12 rows
+DSP,dsp,1.6,12.2,"MAPE unusable, y near 0"
+DSP,fmax_mhz,9.8,5.0,12/12 rows
+DSP,power_mw,2.2,16.0,"MAPE unusable, y near 0"
+LUT,lut,1511.1,40.5,16/16 rows
+LUT,ff,321.2,15.9,16/16 rows
+LUT,dsp,0.0,0.0,constant
+LUT,fmax_mhz,4.4,3.5,16/16 rows
+LUT,power_mw,41.6,101.5,"MAPE unusable, y near 0"

@@ -1,0 +1,30 @@
+# Vivado project output
+*.jou
+*.log
+*.str
+*.dcp
+*.xpr
+*.rpx
+*.pb
+*.wdf
+*.vdi
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+.Xil/
+xsim.dir/
+webtalk*
+vivado_pid*
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

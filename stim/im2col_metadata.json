@@ -1,0 +1,31 @@
+{
+  "N": 16,
+  "WIDTH": 8,
+  "ACCW": 32,
+  "A_shape": [
+    14,
+    12
+  ],
+  "B_shape": [
+    12,
+    4
+  ],
+  "C_shape": [
+    14,
+    4
+  ],
+  "padded_A_shape": [
+    14,
+    16
+  ],
+  "padded_B_shape": [
+    16,
+    16
+  ],
+  "padded_C_shape": [
+    14,
+    16
+  ],
+  "seed": 7,
+  "verification": "PASS"
+}
